@@ -160,21 +160,3 @@ src/
 | `npm run test` | Unit tests |
 | `npm run test:e2e` | E2E tests (needs DB) |
 
----
-
-## Submission checklist
-
-- [ ] Update `ABOUT_NAME` and `ABOUT_EMAIL` on Render (and in `.env` locally)
-- [ ] Deploy web + Postgres on Render
-- [ ] Verify `/about`, `/login`, `/register`, `/notes`, `/openapi.json`
-- [ ] Submit deployed **base URL** (no trailing slash), e.g. `https://notes-api-xxxx.onrender.com`
-
----
-
-## Author
-
-Update this section after deployment:
-
-- **Name:** (set via `ABOUT_NAME`)
-- **Email:** (set via `ABOUT_EMAIL`)
-- **Repository:** your GitHub URL
